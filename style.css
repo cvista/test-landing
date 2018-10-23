@@ -1,0 +1,38 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-image: url('https://www.tripsavvy.com/thmb/THGPZwRqRbKOijIBxQfigShi6LU=/960x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-161135613-5a6a09e50e23d9001aeeddfb.jpg');
+  background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+}
+
+.colalign{
+  position:relative;
+  top: 80%;
+}
+
+.butrnd{
+border-radius: 15pt;
+
+}
+
+.headline{
+  font-size: 30px;
+  font-weight:bold;
+  color: rgb(82, 20, 255);
+  text-align:center;
+
+}
+.container .row
+{/*border: 5px solid red;*/
+
+}
+.row .col{
+  text-align: center;
+}
